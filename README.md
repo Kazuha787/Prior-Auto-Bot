@@ -1,5 +1,4 @@
 # Prior Auto Bot
-
 ![IMG_20250406_102444_070](https://github.com/user-attachments/assets/c6fa7032-04f7-49b2-8542-435cd1729880)
 
 This bot automates swapping PRIOR tokens for USDT/USDC on the **Base Sepolia** testnet to help users participate in the PRIOR airdrop activity—no manual hassle, just set it and forget it.
